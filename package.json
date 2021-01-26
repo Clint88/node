@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"my first node app\"",
+  "main": "async-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clint88/node.git"
+  },
+  "author": "Clint Crockett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clint88/node/issues"
+  },
+  "homepage": "https://github.com/Clint88/node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2"
+  }
+}
